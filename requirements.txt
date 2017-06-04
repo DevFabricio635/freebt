@@ -1,1 +1,3 @@
-numpy==1.13.0rc2
+gunicorn
+Flask
+numpy
